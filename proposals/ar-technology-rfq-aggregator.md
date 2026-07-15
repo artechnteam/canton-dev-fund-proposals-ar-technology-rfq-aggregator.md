@@ -5,7 +5,7 @@ Status: Draft
 Created: 2026-06-21  
 Label: defi-liquidity
 
-[Champion](https://github.com/canton-foundation/canton-dev-fund/blob/main/sig-directory.md): need Champion
+[Champion](https://github.com/canton-foundation/canton-dev-fund/blob/main/sig-directory.md):
 
 ----------
 
